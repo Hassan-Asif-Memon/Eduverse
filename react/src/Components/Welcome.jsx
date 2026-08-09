@@ -1,6 +1,7 @@
 // import React from 'react';
 // import {link} from "react-router-dom"
 import logo from '../assets/Eduverse-logo.png'
+import hero from "../assets/pic1.png"
 function Welcome(){
     return(<>
     <div className="nav">
@@ -26,6 +27,8 @@ function Welcome(){
 
     </div>
     <div className="right">
+        <img id='hero' src={hero} alt="" />
+    </div>
 
     </div>
 
@@ -47,7 +50,6 @@ function Welcome(){
             <p>Posts</p>
         </div>
     </footer>
-    </div>
     </>)
 }
 export default Welcome;
