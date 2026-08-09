@@ -90,8 +90,8 @@ background-color: rgb(23, 23, 99);
   position: relative;
 }
 #hero{
-  width: 40%;
-  height: 35vh;
+  width: 70%;
+  height: 50vh;
   object-fit: cover;
   border-radius: 50%;
   position: relative;
@@ -105,4 +105,8 @@ background-color: rgb(23, 23, 99);
   border-radius: 10px;
   margin-inline: 2%;
   padding: 3px;
+}
+#footer p{
+  color: black;
+  font-weight: bold;
 }
