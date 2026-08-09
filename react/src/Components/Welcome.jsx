@@ -8,6 +8,12 @@ function Welcome(){
             <button id="signup">Sign up</button>
         </div>
     </div>
+    <div className="left">
+        
+    </div>
+    <div className="right">
+
+    </div>
     </>)
 }
 export default Welcome;

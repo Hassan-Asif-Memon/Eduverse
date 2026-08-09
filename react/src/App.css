@@ -5,9 +5,27 @@
 #logo{
   width: 15%;
 }
-.buttons{
-  /* width: 10%; */
-}
 #login{
-  width: 50%;
+  width: 55%;
+  padding: 8px;
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+}
+#login:hover{
+  background-color: rgb(23, 23, 99);
+  color: white;
+  cursor: pointer;
+}
+#signup{
+  width: 65%;
+  padding: 8px;
+  background-color: rgb(23, 23, 99);
+  color: white;
+  border-radius: 4px;  
+
+}
+#signup:hover{
+  cursor: pointer;
+  background-color: rgb(50, 50, 170);
 }
