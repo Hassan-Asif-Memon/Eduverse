@@ -30,7 +30,22 @@ function Welcome(){
     </div>
 
     <footer id='footer'>
-        
+        <div className="foot">
+            <h2>10K+</h2>
+            <p>Students</p>
+        </div>
+        <div className="foot">
+            <h2>1K+</h2>
+            <p>Teachers</p>
+        </div>
+        <div className="foot">
+            <h2>500+</h2>
+            <p>Institutes</p>
+        </div>
+        <div className="foot">
+            <h2>10K+</h2>
+            <p>Posts</p>
+        </div>
     </footer>
     </div>
     </>)

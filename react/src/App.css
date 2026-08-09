@@ -75,3 +75,10 @@ background-color: rgb(23, 23, 99);
   color: white;
   cursor: pointer;
 }
+#footer{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5%;
+  box-shadow: black 10px 10px 10px 10px;
+  border-radius: 10px;
+}
