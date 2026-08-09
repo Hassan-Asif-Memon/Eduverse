@@ -27,5 +27,51 @@
 }
 #signup:hover{
   cursor: pointer;
-  background-color: rgb(50, 50, 170);
+  background-color: #3232aa;
+}
+.box{
+
+}
+.left{
+  text-align: left;
+  margin-left: 2%;
+  margin-top: 6%;
+}
+#connect{
+
+}
+#learn{
+  color: #914191;
+}
+#grow{
+  color: #359e7b;
+}
+.description{
+  /* text-align: left; */
+}
+#start{
+background-color: rgb(23, 23, 99);
+  color: white;
+  cursor: pointer;
+  padding: 9px;
+  border-radius: 6px;
+  margin-top: 3%;
+  margin-right: 2%;
+}
+#explore{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  padding: 9px;
+  border-radius: 6px;
+  margin-top: 3%;
+}
+#start:hover{
+  cursor: pointer;
+  background-color: #3232aa;
+}
+#explore:hover{
+  background-color: rgb(23, 23, 99);
+  color: white;
+  cursor: pointer;
 }
