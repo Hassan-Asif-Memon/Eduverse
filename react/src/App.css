@@ -5,12 +5,19 @@
 #logo{
   width: 15%;
 }
+.buttons{
+  display: flex;
+  justify-content: space-between;
+  height: 6vh;
+  width: 15%;
+  gap: 13%;
+}
 #login{
   width: 55%;
   padding: 8px;
   background-color: white;
   color: black;
-  border-radius: 4px;
+  border-radius: 5px;
 }
 #login:hover{
   background-color: rgb(23, 23, 99);
@@ -22,7 +29,7 @@
   padding: 8px;
   background-color: rgb(23, 23, 99);
   color: white;
-  border-radius: 4px;  
+  border-radius: 5px;  
 
 }
 #signup:hover{
@@ -90,6 +97,10 @@ background-color: rgb(23, 23, 99);
   border-radius: 50%;
   position: relative;
   z-index: 2;
+}
+.foot h2{
+  color: #359e7b;
+  /* color: #914191; */
 }
 #footer{
   display: flex;
